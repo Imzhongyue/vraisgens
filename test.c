@@ -1,6 +1,8 @@
 #include <stdio.h>
 int main(void)
 {
-	printf("hello world!\n");
+	printf("this is test.c")
+	printf("this is test.c")
+	printf("this is test.c")
 	return 0;
 }
